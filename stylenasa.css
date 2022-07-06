@@ -1,0 +1,25 @@
+body{
+    background-color: cornflowerblue;
+margin: 0px 75px 0px 75px;
+}
+
+.banner-image{
+    border: thin solid black;
+    height: 450px;
+    width: 850px;
+    margin: 50px 0px 20px 0px;
+    
+}
+.content{
+    border:thin solid black;
+    height:324px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.article{
+    border: thin solid black;
+    margin: 20px;
+    
+}
